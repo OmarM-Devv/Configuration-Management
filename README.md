@@ -1,4 +1,4 @@
-# DevOps-Configuration
+# File-Configuration
 Documentation of configuration management and asset mapping.
 # Configuration & Asset Management Lab
 
@@ -21,7 +21,7 @@ This repository documents my introduction to how software handles data and asset
 * **Text Editor:** Notepad++ (for editing XML and Config files).
 * **File System:** Managing directory structures to ensure the software could locate the new assets.
 
-## Why is this relevant to DevOps?
+## Why is this relevant to IT?
 Even though this is a game, it taught me the fundamentals of **Configuration Management**:
 * Software behavior is controlled by text files.
 * If a file path or ID is off by one character, the system fails to load the asset.
