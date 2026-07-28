@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Maps local portrait image files to the player IDs the game uses internally.
+  Placed in the same folder as the images it refers to.
+
+  IDs below are illustrative placeholders, not real ones from the save.
+-->
+<record>
+    <list id="maps">
+        <record from="12345" to="graphics/pictures/person/12345/portrait"/>
+        <record from="67890" to="graphics/pictures/person/67890/portrait"/>
+        <record from="24680" to="graphics/pictures/person/24680/portrait"/>
+    </list>
+</record>
