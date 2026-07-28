@@ -21,12 +21,14 @@ This repository documents my introduction to how software handles data and asset
    - This taught me that file naming conventions must match the database keys exactly for the software to read them.
 
 2. **Data Integrity Correction**
-   - Edited the `.lnc` (Name Change) configuration files to replace placeholder text with accurate real-world data.
+   - Located the `.lnc` (Name Change) configuration files by working through the game's installation directory in File Explorer — the files are not exposed anywhere in the application itself, so finding them meant understanding how the install is laid out.
+   - Edited those files to replace placeholder text with accurate real-world data.
    - Verified that changes in the text file correctly updated the UI upon software reload.
 
 ### Tools Used
 
 - **Text Editor:** Notepad++, for editing XML and config files.
+- **File Explorer:** Navigating the game's installation directory to locate the configuration files that control names and assets.
 - **File System:** Managing directory structures so the software could locate the new assets.
 
 ## Why is this relevant to IT?
